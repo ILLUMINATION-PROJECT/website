@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PAFMIM</title>
+    <description>A simple yet classy theme for your Jekyll website or blog.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 26 Sep 2024 11:47:48 +0200</pubDate>
+    <lastBuildDate>Thu, 26 Sep 2024 11:47:48 +0200</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>About the Project</title>
+        <description>&lt;p&gt;Foundation models are huge models in the terms of number of parameters, neurons, layers, etc. which are pre trained on huge amounts of data. These can be later adapted for...</description>
+        <pubDate>Sat, 18 Apr 2015 21:25:52 +0200</pubDate>
+        <link>http://localhost:4000/2015/04/18/dummy5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/04/18/dummy5.html</guid>
+        
+        <category>about_project</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+---
+layout: default
+pagination: 
+  enabled: true
+---
+<div class="home">
+<div class="header-image-new" >
+  <img src="{{ site.cover | prepend: site.baseurl }}" style="width: 100%; height: auto;" >
+</div>
+<!-- <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
+  <div class="scrim {% if site.cover %}has-cover{% endif %}">
+    <header class="site-header">
+      <h1 class="title">{{ site.title }}</h1>
+      {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
+    </header>
+  </div>
+</div> -->
+
+<div class="wrapper">
+<ul class="post-list">
+  
+  <li>
+    <h2>
+      <a class="post-link" href="" style="padding-top:200px;">About the Project</a>
+    </h2>
+    <section class="post-excerpt" itemprop="description">
+      <p>Foundation models in the vision domain are large machine learning models pre-trained on vast amounts of natural images to extract relevant features from their input data. In the PAFMIM project, we aim at adapting existing foundation models to sensitive medical images, such as CT and MRI data. The challenges include ensuring a good performance of the models on medical images and guaranteeing privacy for the medical images. Our project addresses the challenges in a joint approach combining competencies from the perspective of medical image computing and privacy-preserving machine learning.</p>
+    </section>
+  </li>
+  
+  
+</ul>
+<!-- 
+<nav class="pagination" role="navigation">
+	<p>
+    {% if paginator.previous_page %}
+			{% if paginator.page == 2 %}
+			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square fa-stack-2x"></i>
+          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+			{% else %}
+			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
+				<span class="fa-stack fa-lg">
+					<i class="fa fa-square fa-stack-2x"></i>
+					<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+				</span>
+			</a>
+			{% endif %}
+		{% else %}
+		<span class="fa-stack fa-lg">
+      <i class="fa fa-square fa-stack-2x"></i>
+      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+    </span>
+		{% endif %}
+		<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+		{% if paginator.next_page %}
+		<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-square fa-stack-2x"></i>
+        <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+		{% else %}
+		<span class="fa-stack fa-lg">
+      <i class="fa fa-square fa-stack-2x"></i>
+      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+    </span>
+		{% endif %}
+	</p>
+</nav> -->
+
+</div>
+</div>

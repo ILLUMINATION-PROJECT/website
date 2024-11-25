@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'jekyll', '~>4.2'
+gem 'base64'
+gem 'bigdecimal'
+gem 'jekyll-archives'
+gem 'jekyll-sitemap'
+gem 'jekyll-paginate-v2'
