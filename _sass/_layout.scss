@@ -161,22 +161,19 @@ pre code.hljs {
 	.logo {
 		float: left;
 		height: 4em;
-
+		width: 4em;
 		@include media ($tablet) {
 			padding-left: $em-base;
 		}
-
 		img {
-			height: auto;
-			width: 60px;
-			margin-top: 0.75em;
-			padding-right: 1em;
+		  max-height: 2.5em;
+		  margin-top: 0.75em;
+		  padding-right: 1em;
 		}
-
 		span {
 			font-size: 1.25em;
 		}
-	}
+	  }
 
 	nav {
 		float: none;
@@ -435,7 +432,7 @@ pre code.hljs {
 .site-footer {
 	$link-color: $white;
 	padding: 1em 1em 2em 1em;
-	background-image: url('/assets/images/banner-background.png');
+	background-image: url('website/assets/banner-background.png');
 	background-size: cover;
 	background-position: center;
 	color: $white;
