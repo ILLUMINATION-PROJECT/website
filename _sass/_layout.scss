@@ -146,18 +146,19 @@ pre code.hljs {
   .logo {
     float: left;
     height: 4em;
-    @include media ($tablet) {
-    	padding-left: $em-base;
+    @include media($tablet) {
+        padding-left: $em-base;
     }
     img {
-      max-height: 2.5em;
-      margin-top: 0.75em;
-      padding-right: 1em;
+        height: 4em;  /* Match the container height */
+        width: 4em;   /* Make it square since original is square */
+        margin-top: 0.75em;
+        padding-right: 1em;
     }
     span {
-    	font-size: 1.25em;
+        font-size: 1.25em;
     }
-  }
+}
   nav {
     float: none;
     padding: 1.25em 0;
