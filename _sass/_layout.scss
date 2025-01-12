@@ -162,7 +162,7 @@ pre code.hljs {
 		float: left;
 		height: 4em;
 		width: 4em;
-		object-fit: fill;
+		object-fit: cover;
 		@include media ($tablet) {
 			padding-left: $em-base;
 		}
@@ -456,8 +456,6 @@ pre code.hljs {
 	.wrapper {
 		@include outer-container;
 	}
-
-	.footer-heading {}
 
 	/*
 	*	Site Navigation (left)
