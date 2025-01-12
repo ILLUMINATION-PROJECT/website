@@ -161,18 +161,17 @@ pre code.hljs {
 	.logo {
 		float: left;
 		height: 4em;
-		width: 5em;
-		object-fit: contain;
+		width: 4em;
 
 		@include media ($tablet) {
 			padding-left: $em-base;
 		}
 
 		img {
-			max-height: 3em;
-			max-width: 4em;
+			max-height: 2.5em;
 			margin-top: 0.75em;
 			padding-right: 1em;
+			object-fit:contain;
 		}
 
 		span {
