@@ -162,13 +162,12 @@ pre code.hljs {
 		float: left;
 		height: 4em;
 		width: 4em;
-		object-fit: contain;
+		object-fit: fill;
 		@include media ($tablet) {
 			padding-left: $em-base;
 		}
 		img {
 		  max-height: 2.5em;
-		  max-width: 2.5em;
 		  margin-top: 0.75em;
 		  padding-right: 1em;
 		}
