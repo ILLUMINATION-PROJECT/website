@@ -162,6 +162,7 @@ pre code.hljs {
 		float: left;
 		height: 4em;
 		width: 4em;
+		object-fit: contain;
 		@include media ($tablet) {
 			padding-left: $em-base;
 		}
