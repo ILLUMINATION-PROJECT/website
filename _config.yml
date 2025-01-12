@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: PAFMIM
+title: ILLUMINATION
 subtitle: "Effective Privacy-Preserving Adaptation of Foundation Models for Medical Tasks"
-email: PAFMIM@gmail.com
-name: PAFMIM
+email: ILLUMINATION@gmail.com
+name: ILLUMINATION
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/header_image_PAFMIM.png"
-logo: "/assets/PAFMIM_logo.png"
+cover: "/assets/header_image_ILLUMINATION.png"
+logo: "/assets/logo_ILLUMINATION.png"
 
 # Build settings
 markdown: kramdown
@@ -78,28 +78,28 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: PAFMIM
+    username: ILLUMINATION
     url: ""
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: PAFMIM
+    username: ILLUMINATION
     url: ""
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: PAFMIM
-    url: https://github.com/PAFMIM
+    username: ILLUMINATION
+    url: https://github.com/ILLUMINATION-PROJECT
     desc: View Organisation
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: PAFMIM
+    username: ILLUMINATION
     url: ""
     desc: Connect with me on LinkedIn
     share: true

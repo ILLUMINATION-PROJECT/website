@@ -5,7 +5,7 @@ permalink: /project/
 main_nav: true
 ---
 
-<h1 id = "headings"> PAFMIM </h1>
+<h1 id = "headings"> ILLUMINATION </h1>
 <p style="text-align: justify;">
 Foundation models are huge models in the terms of number of parameters, neurons, layers, etc. which are pre trained on huge amounts of data. These can be later adapted for various downstream tasks using small amounts of data and reduced computation through fine-tuning, transfer learning, or prompt engineering. Due to recent advancements, powerful foundational models exist which can be used for visual tasks to be performed well by being used as feature extractors, and then used for other downstream tasks by adaptation.
 In this project we aim to leverage these foundation models and advanced learning paradigms to address the complexities of the highly sensitive medical domain, with a particular focus on CT and MRI data.
