@@ -160,8 +160,8 @@ pre code.hljs {
 
 	.logo {
 		float: left;
-		height: 4em;
-		width: 4em;
+		height: 6em;
+		width: 6em;
 		object-fit: cover;
 		@include media ($tablet) {
 			padding-left: $em-base;
