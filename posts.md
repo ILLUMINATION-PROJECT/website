@@ -28,6 +28,77 @@ main_nav: true
 </div>
 
 
+<div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
+  <img src="/website/assets/profile-placeholder.gif" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <div style="margin-left: 180px; text-align: left;">
+    <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Dr. Sebastian Finkler </a>
+    <p style="font-size: 16px; color: #555;">
+        Sebastian ist Teil des Science Support am CISPA Helmholtz-Zentrum für Informationssicherheit und übernimmt die administrative Koordination des ILLUMINATION Projekts. Zuvor arbeitete er in der Digitalisierungsabteilung des saarländischen Wirtschaftsministeriums. Sebastian war Postdoctoral Fellow und Koordinator einer DFG-Forschungsgruppe 2104 an der Helmut-Schmidt-Universität in Hamburg. Er promovierte an der HSU Hamburg und am SOCIUM der Universität Bremen, wo er anhand eines mikroanalytischen Simulationsmodells die Verteilungswirkungen von Rentenreformen untersuchte, um Aussagen über Altersarmut treffen zu können. 
+    </p>    
+  </div>
+</div>
+
+<div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
+  <img src="/website/assets/xun.jpg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <div style="margin-left: 180px; text-align: left;">
+    <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Xun Wang</a>
+    <p style="font-size: 16px; color: #555;">
+      Xun Wang ist Wissenschaftlicher Mitarbeiter am CISPA Helmholtz-Zentrum für Informationssicherheit unter der Betreuung von Dr. Franziska Boenisch, Dr. Adam Dziedzic und Prof. Dr. Michael Backes. Er ist Teil des SprintML-Labs. Zuvor erwarb er seinen Masterabschluss in Robotics, Cognition, Intelligence an der Technischen Universität München (TUM). Seine aktuelle Forschung konzentriert sich auf vertrauenswürdiges und effizientes maschinelles Lernen. Im Rahmen des ILLUMINATION-Projekts entwickelt er Methoden zum Schutz der Privatsphäre von Patient*innen.
+    </p>    
+  </div>
+</div>
+
+<div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
+  <img src="/website/assets/vincent_hanke.jpg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <div style="margin-left: 180px; text-align: left;">
+    <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Vincent Hanke</a>
+    <p style="font-size: 16px; color: #555;">
+      Vincent ist wissentschaftlicher Mitarbeiter am CISPA Helmholtz-Zentrum für Informationssicherheit. Zuvor hat er seinen Bachelor- und Masterabschluss an der Technischen Universität Hamburg (TUHH) in Computer Science abgeschlossen. Aktuell ist er auch Teil des SprintML-Labs und wird von Dr. Franziska Boenisch, Dr. Adam Dziedzic und Prof. Dr. Michael Backes betreut. Seine Forschung konzentriert sich auf vertrauenswürdiges und sicheres maschinelles Lernen, insbesondere im Bereich Large Language Models.
+    </p>    
+  </div>
+</div>
+
+<div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
+  <img src="/website/assets/J_Klein.jpg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <div style="margin-left: 180px; text-align: left;">
+    <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Jacobe Klein</a>
+    <p style="font-size: 16px; color: #555;">
+      Jacobe Klein ist Wissenschaftliche Mitarbeiterin am Institut für Human-Centered Computing an der FU Berlin. Mit einem Abschluss in Maschinenbau (B.Sc.) und Human Factors (M.Sc.) an der TU Berlin fokussiert sie sich im Rahmen der Technikentwicklung besonders auf die Nutzer:innenperspektive. Im Rahmen des ILLUMINATION Projektes steht neben der Entlastung des medizinischen Personals ein besonderer Fokus auf einer Technologie-Entwicklung, die die Privatsphäre von Notaufnahme-Patient:innen gewährleistet.
+    </p>    
+  </div>
+</div>
+
+
+<div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
+  <img src="/website/assets/Malte-Heiser.jpeg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <div style="margin-left: 180px; text-align: left;">
+    <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Malte Heiser</a>
+    <p style="font-size: 16px; color: #555;">
+      Malte Heiser ist wissenschaftlicher Mitarbeiter am Institut für Human-Centered Computing an der FU Berlin. Sein akademisches Fundament umfasst einen B.Sc. und einen M.Sc. in Informatik an der RWTH Aachen, wo er sich auf medizinische Anwendungen der Informatik spezialisierte. Im Rahmen des ILLUMINATION Projekts forscht er zu Methoden zur Wahrung der Privatsphäre im Kontext von Patient:innen-Daten in der Notaufnahme.
+    </p>    
+  </div>
+</div>
+
+<div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
+  <img src="/website/assets/Molnár-Gábor.jpg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <div style="margin-left: 180px; text-align: left;">
+    <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Prof. Dr. iur. Fruzsina Molnár-Gábor</a>
+    <p style="font-size: 16px; color: #555;">
+      Fruzsina Molnár-Gabor is a full professor (W3) of international medical and health law and data protection law at the Faculty of Law at Heidelberg University and research group leader at the BioQuant Center there. She received her doctorate in law from the University of Heidelberg (2015, summa cum laude) on the international regulation of whole genome sequencing and was a research group leader at the Heidelberg Academy of Sciences and Humanities. She is a member of the European Group on Ethics in Science and New Technologies and a deputy judge at the Constitutional Court of Baden-Württemberg. She was awarded the Heinz Maier-Leibnitz Prize (2020).
+    </p>    
+  </div>
+</div>
+
+<div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
+  <img src="/website/assets/Molnár-Gábor.jpg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <div style="margin-left: 180px; text-align: left;">
+    <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Timo Weiß</a>
+    <p style="font-size: 16px; color: #555;">
+      Timo Weiß ist wissenschaftlicher Mitarbeiter der Forschungsgruppe von Fruzsina Molnár-Gábor an der Universität Heidelberg. Er hat Mathematik im Kernfach und Psychologie im Begleitfach in Bonn sowie Philosophie im Kernfach in Bonn, an der Universität Kyōto und der Ruhr-Universität Bochum studiert. Von 2019 bis 2023 war er wissenschaftlicher Mitarbeiter der Bochum Logic Group am Institut für Philosophie I der Ruhr-Universität, und vom Ende 2023 bis zum Beginn dieses Projektes Medizinethiker am Deutschen Krebsforschungszentrum im Rahmen des AI Health Innovation Clusters als Mitglied des Kompetenzzentrums für Ethik und Recht der KI.
+    </p>    
+  </div>
+</div>
+
 
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
