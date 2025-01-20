@@ -29,7 +29,7 @@ main_nav: true
 
 
 <div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
-  <img src="/website/assets/profile-placeholder.gif" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <img src="/website/assets/finkler.jpg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
   <div style="margin-left: 180px; text-align: left;">
     <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Dr. Sebastian Finkler </a>
     <p style="font-size: 16px; color: #555;">
@@ -90,7 +90,7 @@ main_nav: true
 </div>
 
 <div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
-  <img src="/website/assets/profile-placeholder.gif" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <img src="/website/assets/timo_weiß.jpg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
   <div style="margin-left: 180px; text-align: left;">
     <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Timo Weiß</a>
     <p style="font-size: 16px; color: #555;">
