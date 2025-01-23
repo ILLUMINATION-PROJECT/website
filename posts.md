@@ -7,16 +7,14 @@ main_nav: true
 
 
 <div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 20px; position: relative; box-sizing: border-box;">
-    <img 
+    <img
+        href="https://cispa.de/en"   
         src="/website/assets/CISPA_logo.png" 
         alt="Cispa Logo" 
         style="width: 150px; height: 150px; object-fit: contain; position: absolute; top: 10px; left: 10px;"
     >
     <div style="margin-left: 180px; text-align: left;">
-        <a 
-            href="https://cispa.de/en" 
-            style="font-size: 25px; margin-bottom: 10px; display: block; text-decoration: none; color: inherit;"
-        >CISPA</a>
+        <a></a>
         <p style="font-size: 16px; color: #555; margin: 0;">
             
         </p>
