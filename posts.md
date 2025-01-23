@@ -10,7 +10,7 @@ main_nav: true
     <img 
         src="/website/assets/CISPA_logo.png" 
         alt="Cispa Logo" 
-        style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;"
+        style="width: 150px; height: 150px; object-fit: contain; position: absolute; top: 10px; left: 10px;"
     >
     <div style="margin-left: 180px; text-align: left;">
         <a 
