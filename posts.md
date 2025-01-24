@@ -73,7 +73,7 @@ main_nav: true
     <a href="https://www.fu-berlin.de/">
         <img 
             src="/website/assets/FUB_logo.png" 
-            style="height: auto; 
+            style="height: 80px; 
                     width: auto; 
                     object-fit: contain;
                     max-height: calc(100% - 10px);
@@ -107,7 +107,7 @@ main_nav: true
     <a href="https://www.uni-heidelberg.de/de">
         <img 
             src="/website/assets/UHEI_logo.png" 
-            style="height: auto; 
+            style="height: 80px; 
                     width: auto; 
                     object-fit: contain;
                     max-height: calc(100% - 10px);
@@ -140,7 +140,7 @@ main_nav: true
     <a href="https://www.charite.de/">
         <img 
             src="/website/assets/Charite_logo.png" 
-            style="height: auto; 
+            style="height: 80px; 
                     width: auto; 
                     object-fit: contain;
                     max-height: calc(100% - 10px);
@@ -153,7 +153,7 @@ main_nav: true
     <a href="https://algonaut.com/de/">
         <img 
             src="/website/assets/Algonaut_logo.png" 
-            style="height: auto; 
+            style="height: 80px; 
                     width: auto; 
                     object-fit: contain;
                     max-height: calc(100% - 10px);
