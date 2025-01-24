@@ -14,7 +14,7 @@ main_nav: true
                     width: auto; 
                     object-fit: contain;
                     max-width: calc(100% - 40px);"
-            alt="CISPA logo">
+            alt="CISPA">
     </a>
 </div>
 
@@ -69,6 +69,18 @@ main_nav: true
   </div>
 </div>
 
+<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 20px; position: relative; box-sizing: border-box; display: flex; align-items: center; justify-content: center; min-height: min-content;">
+    <a href="https://www.fu-berlin.de/">
+        <img 
+            src="/website/assets/FUB_logo.png" 
+            style="height: 50px; 
+                    width: auto; 
+                    object-fit: contain;
+                    max-width: calc(100% - 40px);"
+            alt="Freie Universität Berlin">
+    </a>
+</div>
+
 <div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
   <img src="/website/assets/J_Klein.jpeg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
   <div style="margin-left: 180px; text-align: left;">
@@ -90,12 +102,24 @@ main_nav: true
   </div>
 </div>
 
+<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 20px; position: relative; box-sizing: border-box; display: flex; align-items: center; justify-content: center; min-height: min-content;">
+    <a href="https://www.uni-heidelberg.de/de">
+        <img 
+            src="/website/assets/UHEI_logo.png" 
+            style="height: 50px; 
+                    width: auto; 
+                    object-fit: contain;
+                    max-width: calc(100% - 40px);"
+            alt="Universität Heidelberg">
+    </a>
+</div>
+
 <div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
   <img src="/website/assets/Molnár-Gábor.jpg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
   <div style="margin-left: 180px; text-align: left;">
     <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Prof. Dr. iur. Fruzsina Molnár-Gábor</a>
     <p style="font-size: 16px; color: #555;">
-      Fruzsina Molnár-Gabor is a full professor (W3) of international medical and health law and data protection law at the Faculty of Law at Heidelberg University and research group leader at the BioQuant Center there. She received her doctorate in law from the University of Heidelberg (2015, summa cum laude) on the international regulation of whole genome sequencing and was a research group leader at the Heidelberg Academy of Sciences and Humanities. She is a member of the European Group on Ethics in Science and New Technologies and a deputy judge at the Constitutional Court of Baden-Württemberg. She was awarded the Heinz Maier-Leibnitz Prize (2020).
+      Fruzsina Molnár-Gabor ist ordentliche Professorin (W3) für Internationales Medizin- und Gesundheitsrecht und Datenschutzrecht an der Juristischen Fakultät der Universität Heidelberg und Forschungsgruppenleiterin am dortigen BioQuant Center. Sie promovierte in Rechtswissenschaften an der Universität Heidelberg (2015, summa cum laude) zur internationalen Regulierung der Ganzgenomsequenzierung und war Forschungsgruppenleiterin an der Heidelberger Akademie der Wissenschaften. Sie ist Mitglied der European Group on Ethics in Science and New Technologies und stellvertretende Richterin am Verfassungsgerichtshof von Baden-Württemberg. Sie wurde mit dem Heinz Maier-Leibnitz-Preis (2020) ausgezeichnet.
     </p>    
   </div>
 </div>
@@ -110,6 +134,29 @@ main_nav: true
   </div>
 </div>
 
+<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 20px; position: relative; box-sizing: border-box; display: flex; align-items: center; justify-content: center; min-height: min-content;">
+    <a href="https://www.charite.de/">
+        <img 
+            src="/website/assets/Charite_logo.png" 
+            style="height: 50px; 
+                    width: auto; 
+                    object-fit: contain;
+                    max-width: calc(100% - 40px);"
+            alt="CISPA">
+    </a>
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 20px; position: relative; box-sizing: border-box; display: flex; align-items: center; justify-content: center; min-height: min-content;">
+    <a href="https://algonaut.com/de/">
+        <img 
+            src="/website/assets/Algonaut_logo.png" 
+            style="height: 50px; 
+                    width: auto; 
+                    object-fit: contain;
+                    max-width: calc(100% - 40px);"
+            alt="CISPA">
+    </a>
+</div>
 
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
