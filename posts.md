@@ -6,13 +6,15 @@ main_nav: true
 ---
 
 
-<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 20px; position: relative; box-sizing: border-box;">
+<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 20px; position: relative; box-sizing: border-box;height: 150px;">
     <a href="https://cispa.de/en">
-        <img
+        <img 
             src="/website/assets/CISPA_logo.png" 
-            alt="Cispa Logo" 
-            style="width: 150px; height: 150px; object-fit: contain; position: absolute; top: 10px; left: 10px;"
-        >
+            style="height: 150px; 
+                    width: auto; 
+                    object-fit: contain; 
+                    float: left;"
+            alt="CISPA logo">
     </a>
 </div>
 
