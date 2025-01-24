@@ -73,10 +73,11 @@ main_nav: true
     <a href="https://www.fu-berlin.de/">
         <img 
             src="/website/assets/FUB_logo.png" 
-            style="height: 55px; 
+            style="height: auto; 
                     width: auto; 
                     object-fit: contain;
-                    max-width: calc(100% - 40px);"
+                    max-height: calc(100% - 10px);
+                    max-width: calc(100% - 10px);"
             alt="Freie Universität Berlin">
     </a>
 </div>
@@ -106,10 +107,11 @@ main_nav: true
     <a href="https://www.uni-heidelberg.de/de">
         <img 
             src="/website/assets/UHEI_logo.png" 
-            style="height: 55px; 
+            style="height: auto; 
                     width: auto; 
                     object-fit: contain;
-                    max-width: calc(100% - 40px);"
+                    max-height: calc(100% - 10px);
+                    max-width: calc(100% - 10px);"
             alt="Universität Heidelberg">
     </a>
 </div>
@@ -138,10 +140,11 @@ main_nav: true
     <a href="https://www.charite.de/">
         <img 
             src="/website/assets/Charite_logo.png" 
-            style="height: 60px; 
+            style="height: auto; 
                     width: auto; 
                     object-fit: contain;
-                    max-width: calc(100% - 40px);"
+                    max-height: calc(100% - 10px);
+                    max-width: calc(100% - 10px);"
             alt="CISPA">
     </a>
 </div>
@@ -150,10 +153,11 @@ main_nav: true
     <a href="https://algonaut.com/de/">
         <img 
             src="/website/assets/Algonaut_logo.png" 
-            style="height: 60px; 
+            style="height: auto; 
                     width: auto; 
                     object-fit: contain;
-                    max-width: calc(100% - 40px);"
+                    max-height: calc(100% - 10px);
+                    max-width: calc(100% - 10px);"
             alt="CISPA">
     </a>
 </div>
