@@ -10,7 +10,7 @@ main_nav: true
     <a href="https://cispa.de/en">
         <img 
             src="/website/assets/CISPA_logo.png" 
-            style="height: 150px; 
+            style="height: 100px; 
                     width: auto; 
                     object-fit: contain; 
                     float: left;
