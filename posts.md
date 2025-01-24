@@ -136,28 +136,28 @@ main_nav: true
   </div>
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 5px; position: relative; box-sizing: border-box; display: flex; align-items: center; justify-content: center; min-height: min-content;">
+<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 10px; position: relative; box-sizing: border-box; display: flex; align-items: center; justify-content: center; min-height: min-content;">
     <a href="https://www.charite.de/">
         <img 
             src="/website/assets/Charite_logo.png" 
             style="height: 80px; 
                     width: auto; 
                     object-fit: contain;
-                    max-height: calc(100% - 10px);
-                    max-width: calc(100% - 10px);"
+                    max-height: calc(100% - 5px);
+                    max-width: calc(100% - 5px);"
             alt="CISPA">
     </a>
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 5px; position: relative; box-sizing: border-box; display: flex; align-items: center; justify-content: center; min-height: min-content;">
+<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 10px; position: relative; box-sizing: border-box; display: flex; align-items: center; justify-content: center; min-height: min-content;">
     <a href="https://algonaut.com/de/">
         <img 
             src="/website/assets/Algonaut_logo.png" 
             style="height: 80px; 
                     width: auto; 
                     object-fit: contain;
-                    max-height: calc(100% - 10px);
-                    max-width: calc(100% - 10px);"
+                    max-height: calc(100% - 5px);
+                    max-width: calc(100% - 5px);"
             alt="CISPA">
     </a>
 </div>
