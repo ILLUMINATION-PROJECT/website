@@ -6,7 +6,7 @@ main_nav: true
 ---
 
 
-<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 20px; position: relative; box-sizing: border-box;height: 150px; overflow: hidden;">
+<div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 20px; position: relative; box-sizing: border-box;height: 70px; overflow: hidden;">
     <a href="https://cispa.de/en">
         <img 
             src="/website/assets/CISPA_logo.png" 
