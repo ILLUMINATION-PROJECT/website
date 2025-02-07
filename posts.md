@@ -83,6 +83,18 @@ main_nav: true
 </div>
 
 <div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
+  <img src="website/assets/C_Müller-Birn.jpg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <div style="margin-left: 180px; text-align: left;">
+    <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Claudia Müller-Birn</a>
+    <p style="font-size: 16px; color: #555;">
+      Claudia Müller-Birn ist Leiterin der Forschungsgruppe Human-Centered Computing am Institut für Informatik der Freien Universität Berlin. Vor ihrer Professur an der FU Berlin war sie als Postdoktorandin an der Carnegie Mellon University School of Computer Science tätig, unterstützt durch ein Feodor Lynen-Stipendium der Alexander von Humboldt-Stiftung. In ihrer interdisziplinären Forschungsarbeit konzentriert sie sich auf die kooperative und nachhaltige Zusammenarbeit zwischen Mensch und Künstlicher Intelligenz und die partizipative Gestaltung von sozial-verantwortlichen Technologien durch eine ganzheitlichen Betrachtung von Privatsphäre und Erklärbarkeit im Kontext von Daten, Algorithmen und Machine Learning. 
+      Sie wurde 2024 zu den »100 wichtigsten Köpfe der Berliner Wissenschaft« ernannt (Der Tagesspiegel) und erhielt im selben Jahr den Max Rubner-Preis (Charité - Universitätsmedizin Berlin). Außerdem gewann sie verschiedene Preise bei Konferenzen, unter anderem den Ted Nelson Newcomer Award (2014, 25th ACM Conference on Hypertext and Social Media) und den Honorable Mention Award (2019, 25th ACM Conference on Computer Supported Cooperative Work). 
+
+    </p>    
+  </div>
+</div>
+
+<div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
   <img src="/website/assets/J_Klein.jpeg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
   <div style="margin-left: 180px; text-align: left;">
     <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Jacobe Klein</a>
@@ -149,6 +161,26 @@ main_nav: true
     </a>
 </div>
 
+<div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
+  <img src="website/assets/profile-placeholder.gif" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <div style="margin-left: 180px; text-align: left;">
+    <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Prof. Dr. rer. medic. Anna Slagman</a>
+    <p style="font-size: 16px; color: #555;">
+      Prof. Dr. Anna Slagman ist seit 2019 Professorin für Versorgungsforschung in der Notfallmedizin, in der Abteilung Notfall- und Akutmedizin (CVK, CCM) der Charité - Universitätsmedizin Berlin. Zuvor war sie von 2017-2019 im Rahmen eines DFG-Forschungsstipendiums als Postdoctoral Fellow in der Arbeitsgruppe von Prof. Robyn McDermott an der James Cook University in Cairns, Australien tätig. Anna Slagman studierte Veterinärmedizin und Epidemiologie, war seit 2008 als wissenschaftliche Mitarbeitern an der Charité – Universitätsmedizin Berlin tätig und schloss ihre Promotion zum Thema “C-reactive protein in acute myocardial infarction: kinetic, prognostic performance and establishment of a specific apheresis in a porcine infarction model” 2016 mit „Summa Cum Laude“ ab. Ihre Forschungsschwerpunkte umfassen die Analyse von Routinedaten der Notfallversorgung, patientenzentrierte Versorgung und Patient-reported Outcomes, sektorenübergreifende Versorgungsabläufe und Patient:innensteuerung im Notfallversorgungssystem sowie die Versorgung psycho-soziale Notfälle.
+    </p>    
+  </div>
+</div>
+
+<div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
+  <img src="website/assets/yves_noel_wu.jpg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <div style="margin-left: 180px; text-align: left;">
+    <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Yves Noel Wu</a>
+    <p style="font-size: 16px; color: #555;">
+        Yves Noel Wu ist wissenschaftlicher Mitarbeiter in der Forschungsgruppe für Notfallmedizinische Versorgungsforschung unter der Leitung von Prof. Anna Slagman an der Charité - Universitätsmedizin Berlin. Er erlangte seinen Masterabschluss in Public Health an der Universität Lund in Schweden, nachdem er seinen Bachelor in Health Communication an der Universität Bielefeld absolviert hatte. Seine Forschung konzentriert sich auf die Analyse von Routinedaten, um intersektorale Patientenpfade besser zu verstehen und Optimierungsansätze für die Praxis zu gewinnen. 
+    </p>    
+  </div>
+</div>
+
 <div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%; margin: 20px 0; padding: 10px; position: relative; box-sizing: border-box; display: flex; align-items: center; justify-content: center; min-height: min-content;">
     <a href="https://algonaut.com/de/">
         <img 
@@ -160,6 +192,16 @@ main_nav: true
                     max-width: calc(100% - 5px);"
             alt="CISPA">
     </a>
+</div>
+
+<div style=" border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 100%;margin: 20px 0;padding: 20px; position: relative; box-sizing: border-box;">     
+  <img src="/website/assets/Jost_vonpetersdorff.jpg" alt="Image description" style="width: 150px; height: 150px; object-fit: cover; position: absolute; top: 10px; left: 10px;">
+  <div style="margin-left: 180px; text-align: left;">
+    <a href = "" style=" font-size: 25px; margin-bottom: 10px;">Jost von Petersdorff-Campen</a>
+    <p style="font-size: 16px; color: #555;">
+      Jost ist Gründer von Algonaut, einem jungen Beratungsunternehmen mit Lösungen im Bereich Datenplattformen und Prozessautomatisierungen. Mit einem Hintergrund in Mathematik und Statistik entwickeln er und sein Team datengetriebene Lösungen, die von klassischer Datenanalyse bis hin zu modernen KI-Applikationen reichen. Sein Schwerpunkt liegt insbesondere auf Large Language Models (LLMs) und deren Integration in geschäftskritische Prozesse, einschließlich Anwendungen im Gesundheitssektor.
+    </p>    
+  </div>
 </div>
 
 {% for category in site.categories %}
