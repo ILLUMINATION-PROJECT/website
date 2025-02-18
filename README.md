@@ -1,6 +1,6 @@
 ILLUMINATION website.
 
-#### Relevant files/folders for editing/adding content:
+#### Relevant files and folders for editing or adding content:
 
 1. index.html: home page
 2. project.md: project page
@@ -9,17 +9,19 @@ ILLUMINATION website.
 
 #### Adding new pages:
 
-please refer to random.md:
-1. To create a new page, simple create a new .md file in the root directory and add the code block below to the top of the file. 
+1. Please refer to random.md as an example
+2. To create a new page, simple create a new .md (e.g. your_newpage.md) file in the root directory and add the following code block to the top of the file. 
         
         ---
         layout: page
-        title: "newpage"  
-        permalink: /newpage/  
+        title: <your_newpage>  
+        permalink: /<your_newpage>/  
         main_nav: True  
         ---  
         
-2. Setting main_nav to True displays a clickable link to that page in the navigation pane on top of the website. Then you can continue to use HTML to create content for your webpage.
+3. Setting main_nav to True displays a clickable link to that page in the navigation pane on top of the website.
 
-#### Final note
-All other files and folders are generated during website building and should not be altered unless you wish to change color schemes/background images of the website (this can be changed in `_sass/layout.scss`).
+4. Rename title and permalink to the name of the tab/webpage. Then you can continue to use HTML to create content for your webpage.
+
+#### Note
+Most other files and folders are generated during website building and should not be altered (hardcoded) . If you wish to change color schemes/background images of the website (this can be changed in `_sass/layout.scss`).
