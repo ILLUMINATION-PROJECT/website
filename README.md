@@ -2,15 +2,15 @@ ILLUMINATION website.
 
 #### Relevant files and folders for editing or adding content:
 
-1. index.html: home page
-2. project.md: project page
-3. team.md: team page
-4. assets(folder) : contains all relevant images for the website 
+1. home page: index.html
+2. project page: project.md
+3. team page: team.md
+4. relevant images for the website: assets(folder) 
 
 #### Adding new pages:
 
 1. Please refer to random.md as an example
-2. To create a new page, simple create a new .md (e.g. your_newpage.md) file in the root directory and add the following code block to the top of the file. 
+2. To create a new page, simply create a new markdown file (e.g. your_newpage.md) file in the root directory and add the following code block to the top of the file. 
         
         ---
         layout: page
@@ -19,7 +19,7 @@ ILLUMINATION website.
         main_nav: True  
         ---  
         
-3. Setting main_nav to True displays a clickable link to that page in the navigation pane on top of the website.
+3. Setting main_nav to True displays a clickable link to that tab/webpage in the navigation pane on top of the website.
 
 4. Rename title and permalink to the name of the tab/webpage. Then you can continue to use HTML to create content for your webpage.
 
