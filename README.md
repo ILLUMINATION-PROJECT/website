@@ -24,4 +24,4 @@ ILLUMINATION website.
 4. Rename title and permalink to the name of the tab/webpage. Then you can continue to use HTML to create content for your webpage.
 
 #### Note
-Most other files and folders are generated during website building and should not be altered (hardcoded) . If you wish to change color schemes/background images of the website (this can be changed in `_sass/layout.scss`).
+Most other files and folders are generated during website building and should not be altered (hardcoded) . If you wish to change color schemes/background images of the website; this can be changed in `_sass/layout.scss`.
