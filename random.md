@@ -2,7 +2,7 @@
 layout: page
 title: "Random"
 permalink: /random/
-main_nav: true
+main_nav: false
 ---
 
 <h1 id = "headings"> ILLUMINATION </h1>
